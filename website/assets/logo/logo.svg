@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">総武鉄道 SR</title>
-  <desc id="desc">黄色のSRロゴと総武鉄道の文字</desc>
-  <rect width="512" height="512" fill="#fff"/>
-  <text x="256" y="260" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="236" font-weight="900" letter-spacing="-20" fill="#ffc400">SR</text>
-  <text x="256" y="374" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="52" font-weight="700" letter-spacing="10" fill="#ffc400">総武鉄道</text>
-</svg>
